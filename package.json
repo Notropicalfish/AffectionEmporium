@@ -1,0 +1,9 @@
+{
+  "name": "affection-emporium-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for the Affection Emporium",
+  "main": "api/send-discord-message.js",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
